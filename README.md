@@ -3,9 +3,7 @@
 Seeking opportunities: AI/ML Engineer, Data Scientist, Data Analyst roles in cutting-edge tech companies 
 
 ## About Me
-**AI/ML Engineer** passionate about **Large Language Models**, **Machine Learning** and **Cloud Services**. 
-## 🔥 Current Focus
-Actively exploring: Advanced LLM architectures, Multimodal AI systems, and Prompt Engineering techniques, Latest developments in Generative AI and Large Language Models
+**AI/ML Engineer** passionate about **Large Language Models**, **Machine Learning** and **Cloud Services**. Actively exploring: Advanced LLM architectures, Multimodal AI systems, and Prompt Engineering techniques, latest developments in Generative AI and Large Language Models
  
 
 --- 
@@ -20,11 +18,13 @@ Actively exploring: Advanced LLM architectures, Multimodal AI systems, and Promp
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saiganeshakagana@gmail.com)
 
 ---
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gana36&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gana36&layout=compact&theme=radical&langs_count=8"/>
+</div>
 
-*"Building the future of AI, one model at a time"* ✨
--- 
-## 📊 GitHub Stats
-
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=gana36&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gana36&layout=compact&theme=radical)
+<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=gana36&color=blueviolet&style=flat-square&label=Profile+Views)
+</div>
+---
+"Building the future of AI, one model at a time" ✨
