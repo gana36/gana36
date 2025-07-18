@@ -23,8 +23,12 @@ Seeking opportunities: AI/ML Engineer, Data Scientist, Data Analyst roles in cut
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gana36&layout=compact&theme=radical&langs_count=8"/>
 </div>
 
+--- 
 <div align="center">
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=gana36&color=blueviolet&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/gana36?style=social)
+
 </div>
----
-"Building the future of AI, one model at a time" ✨
+
+*"Building the future of AI, one model at a time"* ✨
