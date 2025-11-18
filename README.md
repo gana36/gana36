@@ -31,4 +31,4 @@ Seeking opportunities: AI/ML Engineer, Data Scientist, Data Analyst roles in cut
 
 </div>
 
-*"Building the future of AI, one model at a time"* ✨
+
