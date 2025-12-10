@@ -14,9 +14,10 @@ Seeking opportunities: AI/ML Engineer, Data Scientist, Data Analyst roles in cut
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saiganeshakagana@gmail.com)
 
 ---
+
 <div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gana36&theme=default)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gana36&layout=compact&theme=radical&langs_count=8"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gana36&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gana36&theme=radical" />
 </div>
 
 --- 
