@@ -3,7 +3,7 @@
 Seeking opportunities: AI/ML Engineer, Data Scientist, Data Analyst roles in cutting-edge tech companies 
 
 ## About Me
-**AI/ML Engineer** passionate about **Large Language Models**, **Machine Learning** and **Cloud Services**. Actively exploring: Advanced LLM architectures, Multimodal AI systems, and Prompt Engineering techniques, latest developments in Generative AI and Large Language Models
+**AI/ML Engineer** passionate about **Large Language Models**, **Machine Learning** and **Cloud Services**. Actively exploring: Advanced LLM architectures, Multimodal AI systems, and Prompt Engineering techniques, latest developments in Generative AI and Large Language Models.
  
 
 --- 
