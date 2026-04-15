@@ -79,17 +79,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-- **[Procheck](https://github.com/gana36/procheck)** — hybrid AI medical protocol search combining Elasticsearch BM25 + Gemini semantic vectors · `React · FastAPI · Firebase · Gemini` · [Live](https://procheck-app.web.app) · [Demo](https://youtu.be/QS8evOeT4SM)
-- **[VidMod](https://github.com/gana36/VidMod)** — autonomous video compliance agent using Gemini 3.0 with 1M+ token context for full-video temporal reasoning · `Gemini 3.0 · FastAPI · React · FFmpeg` · [Demo](https://youtu.be/Yl4bevvtUls)
-- **[CryptoStreamML](https://github.com/gana36/CryptoStreamML)** — real-time crypto prediction pipeline with Kafka streaming, A/B champion/challenger models, drift detection & Grafana dashboards · `Kafka · MLflow · InfluxDB · Docker`
-- **[Flight Price Estimation](https://github.com/gana36/flight-price-estimation)** — production MLOps pipeline achieving R² of 0.98 deployed on AWS ECS · `Random Forest · FastAPI · Docker · AWS`
-- **[Manus](https://github.com/gana36/Jarvis)** — production voice assistant with 99.9% uptime via Google Cloud + Gemini · `Gemini 2.0 · FastAPI · React · Qdrant` · [Demo](https://youtu.be/c2WNQVV0zQ0)
-- **[Rift Rewind](https://github.com/gana36/LeagueOfLegends_AICoach)** — personalized League of Legends recaps using Amazon Bedrock Claude 3 Sonnet · `React · Bedrock · DynamoDB` · [Demo](https://youtu.be/WIV69NMOUNE)
-
----
-
 ## 🏆 Achievements
 
 - 🥈 **2nd Place — AWS × Riot Games Rift Rewind Hackathon** (Sep–Nov 2025) — $7K cash + $7K AWS credits · 2,642 participants
@@ -104,24 +93,6 @@
 ![DL.AI](https://img.shields.io/badge/Linear_Algebra_for_ML-00A0DC?style=flat-square&logo=coursera&logoColor=white)
 ![DL.AI](https://img.shields.io/badge/Calculus_for_ML-00A0DC?style=flat-square&logo=coursera&logoColor=white)
 ![iNeuron](https://img.shields.io/badge/Full_Stack_Data_Science-7C3AED?style=flat-square&logoColor=white)
-
----
-
-## 🎯 What I'm Exploring
-
-- Advanced agentic LLM architectures and multi-agent orchestration
-- Multimodal AI systems (vision + language)
-- Graph-based RAG and knowledge graph integration
-- Production-grade vector search and retrieval optimization
-
----
-
-## ⚡ Fun Facts
-
-- Won two international hackathons in the same year against 2,700+ participants each
-- Got a research paper published while simultaneously building production AI systems
-- 🤖 Built a portfolio site that can answer questions about itself using Gemini AI
-- ☕ Debug fuel: strong coffee and questionable lo-fi playlists
 
 ---
 
